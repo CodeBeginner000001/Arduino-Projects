@@ -1,5 +1,6 @@
 # Arduino 
 ![Arduino_2020](https://github.com/CodeBeginner000001/Arduino-Projects/assets/92913917/0f4a8611-84c3-4b1a-ad35-d63229bdc5e4)
+<br>
 Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects. The Arduino boards are able to read inputs, such as light on a sensor or a finger on a button, and turn them into outputs, such as activating a motor or turning on an LED. You can tell your board what to do by sending a set of instructions to the microcontroller on the board. To do so, you use the Arduino programming language (based on Wiring), and the Arduino Software (IDE), based on Processing.
 
 ## Table of Contents
@@ -51,6 +52,10 @@ Some of the commonly used Arduino boards include:
 3. **Arduino Nano**: Compact and breadboard-friendly.
 4. **Arduino Leonardo**: Features built-in USB communication.
 5. **Arduino MKR Series**: Suitable for IoT projects.
+
+###1.Arduino Uno
+![Arduino-UNO-Description](https://github.com/CodeBeginner000001/Arduino-Projects/assets/92913917/9e32d420-6f1d-439e-8770-d75f85e0fc65)
+<p>The Arduino Uno is the most popular and widely used board in the Arduino family. It features an ATmega328P microcontroller and has 14 digital input/output pins, 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header, and a reset button. Its simple and user-friendly design makes it ideal for beginners and educational purposes. The Uno can be powered via a USB connection or an external power supply. It's highly compatible with most shields and modules due to its standard pin layout.</p>
 
 ### Shield and Modules
 
