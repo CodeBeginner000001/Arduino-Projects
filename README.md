@@ -1,8 +1,5 @@
 # Arduino 
-<p align="center">
 ![Arduino_Logo](https://github.com/CodeBeginner000001/Arduino-Projects/assets/92913917/e81371af-ff26-430f-832a-c26dd3cc8aa3)
-</p>
-
 Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects. The Arduino boards are able to read inputs, such as light on a sensor or a finger on a button, and turn them into outputs, such as activating a motor or turning on an LED. You can tell your board what to do by sending a set of instructions to the microcontroller on the board. To do so, you use the Arduino programming language (based on Wiring), and the Arduino Software (IDE), based on Processing.
 
 ## Table of Contents
