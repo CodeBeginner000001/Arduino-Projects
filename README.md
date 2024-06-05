@@ -136,9 +136,13 @@ void loop() {
 
 Libraries provide additional functionality for working with hardware and performing tasks. Some commonly used libraries include:
 
-- **Servo**: Control servo motors.
-- **Wire**: Communicate with I2C devices.
-- **SPI**: Communicate with SPI devices.
+- **Servo**: Control servo motors,used in robotics and control systems where precise positioning is required.
+- **Wire**: Communicate with I2C devices,useful for sensors and modules like the BMP180, MPU6050, and OLED displays...
+- **SPI**: Communicate with SPI devices.Essential for modules like SD cards, certain displays, and RFID readers...
+- **LiquidCrystal**: Controls LCD displays that are compatible with the Hitachi HD44780 driver,common in projects requiring text output on an LCD Modules.
+- **Adafruit Sensor**: Simplifies working with various sensors from Adafruit,provides a unified sensor interface for different types of sensors.
+- **Adafruit Neopixel**: Controls Adafruit's RGB LED strips,used in lighting projects and displays requiring addressable LEDs.
+- **SD**: Allows for reading and writing data to SD cards,used in data logging projects.
 
 ### Installing Libraries
 
@@ -155,12 +159,6 @@ The Arduino IDE comes with built-in examples to help you get started.
 1. Open the Arduino IDE.
 2. Go to File > Examples.
 3. Select an example to open it.
-
-### Online Resources
-
-- [Arduino Project Hub](https://create.arduino.cc/projecthub)
-- [Instructables](https://www.instructables.com/howto/arduino/)
-- [Hackster.io](https://www.hackster.io/arduino)
 
 ## Troubleshooting
 
