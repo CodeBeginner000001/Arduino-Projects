@@ -82,6 +82,7 @@ Some of the commonly used Arduino boards include:
 <img width="616" alt="Screenshot 2024-06-05 at 9 01 50 PM" src="https://github.com/CodeBeginner000001/Arduino-Projects/assets/92913917/0279629e-a690-4e7a-bcd7-2055af3b451b">
 <p>The Arduino MKR series is designed for IoT projects, combining the functionality of the Zero and the connectivity of the Arduino WiFi Shield. The series includes various boards like MKR WiFi 1010, MKR GSM 1400, and MKR WAN 1300, each tailored for specific connectivity protocols. These boards feature a small form factor, 32-bit ARM Cortex-M0+ processor, and integrated connectivity options like WiFi, GSM, or LoRa. They are designed to be power-efficient and support battery operation, making them suitable for portable and remote applications. The MKR series provides a comprehensive platform for developing IoT solutions with built-in connectivity and support for various communication protocols.</p>
 <br>
+
 ### Shield and Modules
 
 Arduino shields and modules can expand the functionality of your board:
