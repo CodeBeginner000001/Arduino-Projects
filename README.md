@@ -1,5 +1,5 @@
 # Arduino 
-<p align="center>
+<p align="center">
 ![Arduino_Logo](https://github.com/CodeBeginner000001/Arduino-Projects/assets/92913917/e81371af-ff26-430f-832a-c26dd3cc8aa3)
 </p>
 
