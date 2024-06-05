@@ -58,6 +58,13 @@ Some of the commonly used Arduino boards include:
 ![Arduino-UNO-Description](https://github.com/CodeBeginner000001/Arduino-Projects/assets/92913917/9e32d420-6f1d-439e-8770-d75f85e0fc65)
 
 <p>The Arduino Uno is the most popular and widely used board in the Arduino family. It features an ATmega328P microcontroller and has 14 digital input/output pins, 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header, and a reset button. Its simple and user-friendly design makes it ideal for beginners and educational purposes. The Uno can be powered via a USB connection or an external power supply. It's highly compatible with most shields and modules due to its standard pin layout.</p>
+<br>
+<h3>Arduino Mega 2560</h3>
+
+![Block-Diagram-1-ArduinoMEGA2560-The-Arduino-Mega-2560-is-a-type-of-microcontroller](https://github.com/CodeBeginner000001/Arduino-Projects/assets/92913917/51706056-8d71-48bb-9e7c-f9556c52af36)
+
+<P>The Arduino Mega 2560 is designed for projects requiring more I/O lines, more sketch memory, and more RAM. It features an ATmega2560 microcontroller and offers 54 digital I/O pins, 16 analog inputs, and 4 UARTs (hardware serial ports). This board is perfect for complex projects such as 3D printers and robotics that require multiple inputs and outputs. It has a larger size compared to the Uno but provides significantly more resources. The Mega 2560 is compatible with most shields designed for the Arduino Uno.</P>
+<br>
 
 ### Shield and Modules
 
